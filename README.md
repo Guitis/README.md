@@ -4,6 +4,6 @@ I am a Data Scientist in progress and studying Python, SQL, Data Analytics, spec
 
 <div style="display: inline-block"> 
   <a href="https://www.linkedin.com/in/guilherme-thomazotti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:guilhermetb50[at]gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:guilhermetb50@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
