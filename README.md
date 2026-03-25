@@ -1,6 +1,6 @@
 # Hey, I'm Guilherme 'Guitis' Thomazotti Barros! :wave: :vulcan_salute:
 
-I am a Data Scientist in Python, SQL, Data Analyst, specializing in libraries like Pandas, Scikit-Learn, and Matplotlib.
+I am a Data Scientist | Data Analyst, in Python, specializing in libraries like Pandas, Scikit-Learn, Seaborn and Matplotlib.
 
 <div style="display: inline-block"> 
   <a href="https://www.linkedin.com/in/guilherme-thomazotti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
