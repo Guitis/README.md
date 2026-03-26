@@ -1,4 +1,4 @@
-# Hey, I'm Guilherme 'Guitis' Thomazotti Barros! :wave: :vulcan_salute:
+# Hey, I'm Guilherme Thomazotti Barros! :wave: :vulcan_salute:
 
 I am a Data Scientist | Data Analyst in Python, specializing in libraries like Pandas, Scikit-Learn, Seaborn and Matplotlib.
 
